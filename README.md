@@ -74,3 +74,6 @@ An AI-driven Medical Diagnosis System that processes medical images and delivers
 * **Web Interface:** Streamlit
 * **Deployment:** GCP, FastAPI
 * **AI Models:** Google Multimodal AI / Gemini
+
+
+Auto update via n8n: 1775637328
